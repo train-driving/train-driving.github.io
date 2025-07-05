@@ -35,6 +35,7 @@ main {
     color: #ffffff;
     font-size: 2rem;
     margin: 0.4rem;
+    justify-content: center;
 }
 
 .d4r-box p {
@@ -72,6 +73,9 @@ main {
     width: 2.7rem;
     align-self: center;
     border-radius: 10px;
+    margin-left: 1.3rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .subtext {

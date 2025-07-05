@@ -1,6 +1,4 @@
-# shadowdara.github.io
-
-My Personal Page
+# Train-driving.github.io
 
 ```sh
 bundle exec jekyll serve
